@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestOpenCV</string>
+    <string name="galleryButtonText">ギャラリーから選択</string>
+</resources>
